@@ -1,0 +1,6 @@
+package org.ferry.dev.already_done
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
